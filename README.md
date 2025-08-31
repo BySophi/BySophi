@@ -38,17 +38,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BySophia&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=141321" alt="Top Langs"/>  
 </p>  
 
----
-
-## 💼 Principais Projetos 🌟  
-
-| 🌸 Projeto               | 💡 Descrição                                                                                                           | 🔗 Link                                                          |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Portfólio Pessoal**    | Projeto em Java com POO para gerenciamento de um portfólio online. Exibe habilidades, projetos e informações pessoais. | [🌷 Veja](https://bysophia.github.io/Portfolio_Pessoal/) |
-| **PacMan**               | Implementação do clássico jogo PacMan, desenvolvido em Java com uma interface gráfica interativa.                      | [🌷 Veja](https://bysophia.github.io/PacMan/)           |
-| **Ping Pong**            | Jogo clássico de Ping Pong implementado em Java, com controles e lógica para duas jogadoras.                          | [🌷 Veja](https://bysophia.github.io/PingPong/)         |
-
----
 
 ## 🌺 O que me inspira  
 
@@ -58,10 +47,7 @@
 
 ---
 
-## 🌸 Vamos nos conectar?  
 
-📩 **E-mail:** sophia.costa@aluno.ifce.edu.br  
-💼 [LinkedIn - Sophia Abreu da Costa](https://www.linkedin.com/in/sophia-abreu-da-costa)  
 
 <p align="center">
   Feito com 💖 por <b>Sophia</b> 🌸
