@@ -48,19 +48,6 @@ Instrutora, desenvolvedora front-end e criadora de conteúdo de programação e 
 
 ---
 
-### 🗂️ Projetos em destaque
-- [Projeto 1](https://github.com/BySophia/projeto-1) — descrição curta do projeto.
-- [Projeto 2](https://github.com/BySophia/projeto-2) — descrição curta do projeto.
-- [Projeto 3](https://github.com/BySophia/projeto-3) — descrição curta do projeto.
-
----
-
-### 📬 Contato
-- 📍 Santa Catarina, Brasil  
-- ✉️ contatobysophia@gmail.com  
-- 🔗 Linktree/Beacons: https://beacons.ai/bysophia  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BySophia&label=Visualizações%20do%20perfil&color=blueviolet&style=flat-square" alt="Contador de visitas"/>
